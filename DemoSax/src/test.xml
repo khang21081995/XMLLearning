@@ -1,0 +1,26 @@
+<root>
+    <staff>
+        <id>EB85F67E-3727-6B7B-0215-0B655C7AE923</id>
+        <fname>Bean</fname>
+        <lname>Allistair</lname>
+        <dob>12/13/1970</dob>
+        <salary>1858</salary>
+        <email>porttitor.tellus@musProinvel.co.uk</email>
+        <address>793-7942 Dignissim Avenue</address>
+        <city>Namdinh</city>
+        <department>Accounting</department>
+        <company>Apple</company>
+    </staff>
+    <staff>
+        <id>DEEEAA26-7DB9-C532-0746-4BCEC0975E66</id>
+        <fname>Dixon</fname>
+        <lname>Scott</lname>
+        <dob>04/14/1974</dob>
+        <salary>733</salary>
+        <email>Donec.luctus.aliquet@porta.com</email>
+        <address>7967 Turpis St.</address>
+        <city>Namdinh</city>
+        <department>Quality Assurance</department>
+        <company>Apple</company>
+    </staff>
+</root>
